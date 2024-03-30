@@ -41,9 +41,9 @@ python People_counter.py
 
 Here are some output images:
 
-![Output 1](Output1.jpg)
+![Output 1](Output1.png)
 
-![Output 2](Output2.jpg)
+![Output 2](Output2.png)
 
 ## Custom Footage
 
