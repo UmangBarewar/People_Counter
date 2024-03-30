@@ -1,4 +1,3 @@
-``markdown
 # People Counter using YOLOv8
 
 This repository contains Python code for a people counter using YOLOv8. The system counts the number of people passing through designated areas in a video feed.
@@ -38,8 +37,13 @@ python People_counter.py
 ```
 
 4. Follow the on-screen instructions to provide input and view the output.
-   !(Output1.jpg)
-   !(Output2.jpg)
+## My Project
+
+Here are some output images:
+
+![Output 1](Output1.jpg)
+
+![Output 2](Output2.jpg)
 
 ## Custom Footage
 
@@ -49,9 +53,7 @@ The repository includes stock footage for testing the people counter system. Add
 
 Contributions are welcome! If you have any improvements or suggestions, feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
-```
+
 
